@@ -1,0 +1,4 @@
+{
+  "condition": "!outlines.terracotta",
+  "fallback": "assets/minecraft/models/item/disabled_features/light_gray_terracotta.json"
+}
