@@ -209,6 +209,12 @@
     },
 	{
       "name": "minecraft:red_sandstone_wall"
+    },
+	{
+      "name": "minecraft:soul_sand"
+    },
+	{
+      "name": "minecraft:magma_block"
     }
   ]
 }
